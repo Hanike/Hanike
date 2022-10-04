@@ -36,7 +36,7 @@
 <div id="tools" background-color="#CCCCCC">
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original-wordmark.svg" title="VSCode" alt="VSCode" width="70" height="70"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server" alt="MS SQL Server" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
