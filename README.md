@@ -1,5 +1,5 @@
-<div id="gif" align="center">
-    <img width="200" src="https://media.giphy.com/media/D9CvKTYzIKV3ZYIkO1/giphy.gif" alt="gif coding">
+<div id="lukneko" align="center">
+    <img width="200" src="https://media.giphy.com/media/D9CvKTYzIKV3ZYIkO1/giphy.gif" alt="gif lucky cat">
 </div>
 
 <h1 align="center">
@@ -62,4 +62,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="50" height="50"/>&nbsp;
+  
+  <a href="https://vivaldi.com">
+    <img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/logos/vivaldi_logo_dark.png" alt="Vivaldi Browser" width="300"/></a>
 </div>
+
+<div id="gif ukraine" align="center"><a href="https://u24.gov.ua">
+    <img width="200" src="https://media.giphy.com/media/5rphiIcJ5In8JhZcen/giphy.gif" alt="gif slava ukraini"/></a>
+</div>
+
+[Slava Ukraini!](https://u24.gov.ua "Support Ukraine!")
