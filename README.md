@@ -64,7 +64,7 @@
   </br>
   <a href="https://vivaldi.com">
     <img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/logos/vivaldi_logo_dark.png" alt="Vivaldi Browser" width="300"/></br>
-    Your Privacy Matters! Get your friendly internet browser Vivaldi!</a>
+    Your Privacy Matters! Get your friendly internet browser Vivaldi now!</a>
 </div>
 
 <div id="gif ukraine" align="center"><a href="https://u24.gov.ua">
