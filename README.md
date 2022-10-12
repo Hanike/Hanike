@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img width="60px" src="https://cdn.bio.link/uploads/thumbnails/2022-03-01/6RPZ6EBSTVP4k1WIploaded_9hNe0gra.gif" alt="gif hey pirate">
-  Hey, Space Pirate!
+  Hey there, Space Pirate!
   <img width="50px" src="https://cdn.bio.link/uploads/thumbnails/2022-03-01/1525JL88AOq1VPvJploaded_oLxJpKTV.gif" alt="gif cat">
 </h1>
 
